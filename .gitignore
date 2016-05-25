@@ -108,3 +108,23 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+
+# Transpiled code
+**/compile
+**/Backend/src/**/*.js
+**/src/deep-root-vanilla
+**/src/deep-root-angular
+_vars.sh
+GitDiffWalker.js
+
+# Configs
+.cfg.deeploy.json
+.cfg.deeploy.json.production
+.cfg.deeploy.json.local
+
+deeploy.json
+deeploy.json.production
+deeploy.json.local
+
+.parameters.json
