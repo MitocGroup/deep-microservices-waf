@@ -2,7 +2,7 @@ deep-microservices-waf
 ======================
 
 [![Build Status](https://travis-ci.org/MitocGroup/deep-microservices-waf.svg?branch=master)](https://travis-ci.org/MitocGroup/deep-microservices-waf)
-[![Codacy Badge](https://api.codacy.com/project/badge/coverage/1ad2d529275e490cb61700b3c20f771a)](https://www.codacy.com/app/MitocGroup/deep-microservices-waf)
+[![Test Coverage](https://codeclimate.com/repos/579f1158e6942766e8003074/badges/2c4e1999539fe3c3537a/coverage.svg)](https://codeclimate.com/repos/579f1158e6942766e8003074/coverage)
 
 deep-microservices-waf is a microservice designed to implement cloud-native firewall for web applications
 built on top of [DEEP Framework](https://github.com/MitocGroup/deep-framework). It could be used either
@@ -74,7 +74,7 @@ command checks every 30 seconds if it's disabled and when successful, removes it
 Having questions related to deep-microservices-waf?
 
 - Ask questions: https://stackoverflow.com/questions/tagged/deep-framework
-- Chat with us: https://gitter.im/MitocGroup/deep-framework
+- Chat with us: https://mitocgroup.slack.com/messages/general
 - Send an email: feedback@deep.mg
 
 Interested in contributing to deep-microservices-waf?
@@ -87,7 +87,7 @@ Interested in contributing to deep-microservices-waf?
 Looking for web applications that use (or are similar to) deep-microservices-waf?
 
 - Hello World: https://hello.deep.mg | https://github.com/MitocGroup/deep-microservices-helloworld
-- Todo App: https://todo.deep.mg | https://github.com/MitocGroup/deep-microservices-todo-app
+- Todo App: https://todo.deep.mg | https://github.com/MitocGroup/deep-microservices-todomvc
 - Enterprise Software Marketplace: https://www.deep.mg
 
 
