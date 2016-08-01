@@ -2,7 +2,7 @@ deep-microservices-waf
 ======================
 
 [![Build Status](https://travis-ci.org/MitocGroup/deep-microservices-waf.svg?branch=master)](https://travis-ci.org/MitocGroup/deep-microservices-waf)
-[![Codacy Badge](https://api.codacy.com/project/badge/coverage/1ad2d529275e490cb61700b3c20f771a)](https://www.codacy.com/app/MitocGroup/deep-microservices-waf)
+[![Test Coverage](https://codeclimate.com/repos/579f1158e6942766e8003074/badges/2c4e1999539fe3c3537a/coverage.svg)](https://codeclimate.com/repos/579f1158e6942766e8003074/coverage)
 
 deep-microservices-waf is a microservice designed to implement cloud-native firewall for web applications
 built on top of [DEEP Framework](https://github.com/MitocGroup/deep-framework). It could be used either
