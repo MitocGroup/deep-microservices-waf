@@ -1,0 +1,11 @@
+{
+  "appIdentifier": "dfgfd54654654",
+  "appName": "My Account web app firewall",
+  "env": "dev",
+  "awsAccountId": 123456789012,
+  "aws": {
+    "accessKeyId": "gfdgfd",
+    "secretAccessKey": "+gfdgfdgfdgfd/dEFpHV20ZxpQAkUqXwCSZBtZhCL",
+    "region": "us-west-2"
+  }
+}
