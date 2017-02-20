@@ -3,6 +3,7 @@
   "appName": "My Account web app firewall",
   "env": "dev",
   "awsAccountId": 123456789012,
+  "apiVersion": "v1",
   "aws": {
     "accessKeyId": "gfdgfd",
     "secretAccessKey": "+gfdgfdgfdgfd/dEFpHV20ZxpQAkUqXwCSZBtZhCL",
